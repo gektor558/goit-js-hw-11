@@ -28,5 +28,3 @@ export class PixabayAPI {
       return  instanse.get('', options).then(response => response.data);
     }
 }
-
-

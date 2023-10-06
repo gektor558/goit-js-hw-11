@@ -1,6 +1,6 @@
 import Notiflix from 'notiflix';
 import { galleryTemplate } from "./template";
-import { PixabayAPI, axios } from './axios';
+import { PixabayAPI} from './axios';
 import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
 
